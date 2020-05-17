@@ -6,6 +6,7 @@
       "properties": 
       { 
         "dowry_count": 15.000000, 
+        "rape_count": 5.00000,
         "id": "01", 
         "name": "Ajmer",
         "year": 2001
@@ -20,7 +21,8 @@
       "type": "Feature",
       "properties": 
       {
-        "dowry_count": 9.000000,
+        "dowry_count": 15.000000,
+        "rape_count": 5.000000,
         "id": "02",
         "name": "Alwar",
         "year": 2002
